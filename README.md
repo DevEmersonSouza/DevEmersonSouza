@@ -7,7 +7,8 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmersonSouza&layout=compact&langs_count=7&theme=react" />
 <img align="center" width="148" height="180" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47vvkcbycxmowg8ebbh2mtyzv7pms60ch4e0dhqymh&rid=giphy.gif&ct=g">
  <br>
-<div  align="center"> 
+<div  align="center">
+  EN - My Skills / PT-BR - Minhas Habilidades
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,wordpress,figma,sass,vercel" />

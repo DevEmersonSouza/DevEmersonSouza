@@ -1,7 +1,7 @@
 <h1> EN - Hi! My name is Emerson. </h1>
 <h1> PT-BR - Olá! Meu nome é Emerson. </h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/DevEmersonSouza">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DevEmersonSouza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmersonSouza&layout=compact&langs_count=7&theme=react" />

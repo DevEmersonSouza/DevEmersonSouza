@@ -8,10 +8,14 @@
 <img align="center" width="148" height="180" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47vvkcbycxmowg8ebbh2mtyzv7pms60ch4e0dhqymh&rid=giphy.gif&ct=g">
  <br>
 <div  align="center"> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,wordpress,figma,sass,vercel)](https://skillicons.dev)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,wordpress,figma,sass,vercel" />
+  </a>
+</p>
 </div>
   <br>
-  <a href="https://www.linkedin.com/in/emersonsouzasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/emersonsouzasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  

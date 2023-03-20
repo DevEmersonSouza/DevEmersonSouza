@@ -5,7 +5,7 @@
   <a href="https://github.com/DevEmersonSouza">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DevEmersonSouza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmersonSouza&layout=compact&langs_count=7&theme=react" />
-<img align="center" width="148" height="180" src="https://uploads.dailydot.com/2023/03/pedro-pascal-make-your-own-kind-of-music-meme.jpeg?q=65&auto=format&w=2270&ar=2:1&fit=crop">
+<img align="center" width="148" height="180" src="https://i.pinimg.com/736x/9c/83/ba/9c83bad7d23250df2264b3936bf2b928.jpg">
  <br>
 <div  align="center">
   EN - My Skills / PT-BR - Minhas Habilidades

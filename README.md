@@ -5,7 +5,7 @@
   <a href="https://github.com/DevEmersonSouza">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DevEmersonSouza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmersonSouza&layout=compact&langs_count=7&theme=react" />
-<img align="right" width="148" height="180" src="https://tenor.com/bRC3o.gif">
+<img align="center" width="148" height="180" src="https://tenor.com/en-GB/view/smiling-javi-gutierrez-pedro-pascal-the-unbearable-weight-of-massive-talent-happy-gif-25135496">
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>

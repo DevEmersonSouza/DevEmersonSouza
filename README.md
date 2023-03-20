@@ -6,7 +6,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DevEmersonSouza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmersonSouza&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://tenor.com/en-GB/view/smiling-javi-gutierrez-pedro-pascal-the-unbearable-weight-of-massive-talent-happy-gif-25135496">
+<div class="tenor-gif-embed" data-postid="25135496" data-share-method="host" data-aspect-ratio="0.996875" data-width="100%"><a href="https://tenor.com/view/smiling-javi-gutierrez-pedro-pascal-the-unbearable-weight-of-massive-talent-happy-gif-25135496">Smiling Javi Gutierrez GIF</a>from <a href="https://tenor.com/search/smiling-gifs">Smiling GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
  <br>
 <div  align="center"> 

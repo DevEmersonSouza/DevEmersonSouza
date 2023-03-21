@@ -11,7 +11,7 @@
   EN - My Skills / PT-BR - Minhas Habilidades
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,wordpress,figma,sass,vercel" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,wordpress,figma,sass,github" />
   </a>
 </p>
 </div>
